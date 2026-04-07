@@ -39,14 +39,20 @@ Designed and implemented an end-to-end ETL pipeline to transform raw sales data 
 
 ---
 
-## 📈 Sample Output
-![Fact Sales Output](images/fact-sales-output.png)
+## 📈 Tableau Dashboard
+![Tableau Dashboard](images/tableau-dashboard.png)
+
+This dashboard analyzes:
+- Total revenue by brand  
+- Revenue distribution by category  
+- Forecasted revenue trends over time  
 
 ---
 
 ## 📁 Files
 - SQL scripts (`/sql`)  
 - ETL pipeline visuals (`/images`)  
+- Tableau dashboard  
 - Full project report  
 
 ---
